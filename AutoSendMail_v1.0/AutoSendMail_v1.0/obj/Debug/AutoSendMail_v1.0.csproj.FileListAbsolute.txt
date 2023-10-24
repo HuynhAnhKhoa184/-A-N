@@ -1,0 +1,60 @@
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\AutoSendMail_v1.0.exe.config
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\AutoSendMail_v1.0.exe
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\AutoSendMail_v1.0.pdb
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MetroFramework.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.AssemblyReference.cache
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1._0.Properties.Resources.resources
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.GenerateResource.cache
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.CopyComplete
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.exe
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.pdb
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1._0.frm_Main.resources
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MimeKit.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Buffers.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Memory.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MimeKit.pdb
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MimeKit.xml
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Buffers.xml
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Memory.xml
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Phan Qui\source\repos\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\AutoSendMail_v1.0.exe.config
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\AutoSendMail_v1.0.exe
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\AutoSendMail_v1.0.pdb
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MetroFramework.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MimeKit.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Buffers.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Memory.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MimeKit.pdb
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\MimeKit.xml
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Buffers.xml
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Memory.xml
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.AssemblyReference.cache
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1._0.frm_Main.resources
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1._0.Properties.Resources.resources
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.GenerateResource.cache
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.csproj.CopyComplete
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.exe
+C:\Users\BonHuynh\Documents\AutoSendMail_v1.0\AutoSendMail_v1.0\AutoSendMail_v1.0\obj\Debug\AutoSendMail_v1.0.pdb
